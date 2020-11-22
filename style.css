@@ -1,5 +1,5 @@
 body{
-
+    background-color: rgb(14, 14, 145);
     height: 100%;
     width: 100%;
     display: grid;
@@ -12,7 +12,8 @@ body{
 #screenDisplay{
 
     width: 100px;
-    background-color: red;
+    background-color: rgb(250, 96, 96);
+    text-align: right;
 }
 
 /* Buttons */
